@@ -1,2 +1,2 @@
 # hello-world
-This is my frist gitgub repository.
+This is my first github repository.
